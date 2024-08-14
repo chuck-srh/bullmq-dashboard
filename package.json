@@ -1,0 +1,18 @@
+{
+  "name": "bullmq-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@bull-board/express": "^5.21.4",
+    "bull": "^4.16.0",
+    "bullmq": "^5.12.5",
+    "express": "^4.19.2"
+  },  
+
+  "author": "",
+  "license": "ISC"
+}
